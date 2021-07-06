@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+background-color: aquamarine;
+}
+.img-section{
+    display: flex;
+    justify-content: center;
+}
+h2{
+    font-family: cursive;
+font-size: 20;
+}
